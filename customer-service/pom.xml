@@ -5,10 +5,11 @@
         <artifactId>KubernateServices</artifactId>
         <groupId>com.core.services</groupId>
         <version>1.0</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nitya</groupId>
-    <artifactId>cus-service</artifactId>
+    <artifactId>customer-service</artifactId>
     <packaging>jar</packaging>
     <version>1.0</version>
 

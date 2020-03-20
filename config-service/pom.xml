@@ -6,13 +6,12 @@
         <artifactId>KubernateServices</artifactId>
         <groupId>com.core.services</groupId>
         <version>1.0</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.core.microservice</groupId>
     <artifactId>config-service</artifactId>
     <version>1.0</version>
-
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
